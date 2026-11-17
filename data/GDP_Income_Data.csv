@@ -1,0 +1,217 @@
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+
+State or DC
+GeoFIPS,GeoName,LineCode,Description,2022
+00000,United States,,Real dollar statistics,
+00000,United States,1,"  Real GDP (millions of chained 2017 dollars) 1",22079726.0
+00000,United States,,Real per capita dollar statistics (constant 2017 dollars),
+00000,United States,8,"  Real per capita personal income 4",57104
+01000,Alabama,,Real dollar statistics,
+01000,Alabama,1,"  Real GDP (millions of chained 2017 dollars) 1",240210.5
+01000,Alabama,,Real per capita dollar statistics (constant 2017 dollars),
+01000,Alabama,8,"  Real per capita personal income 4",50649
+02000,Alaska,,Real dollar statistics,
+02000,Alaska,1,"  Real GDP (millions of chained 2017 dollars) 1",50384.5
+02000,Alaska,,Real per capita dollar statistics (constant 2017 dollars),
+02000,Alaska,8,"  Real per capita personal income 4",58413
+04000,Arizona,,Real dollar statistics,
+04000,Arizona,1,"  Real GDP (millions of chained 2017 dollars) 1",414460.2
+04000,Arizona,,Real per capita dollar statistics (constant 2017 dollars),
+04000,Arizona,8,"  Real per capita personal income 4",50935
+05000,Arkansas,,Real dollar statistics,
+05000,Arkansas,1,"  Real GDP (millions of chained 2017 dollars) 1",137623.6
+05000,Arkansas,,Real per capita dollar statistics (constant 2017 dollars),
+05000,Arkansas,8,"  Real per capita personal income 4",53291
+06000,California,,Real dollar statistics,
+06000,California,1,"  Real GDP (millions of chained 2017 dollars) 1",3161153.4
+06000,California,,Real per capita dollar statistics (constant 2017 dollars),
+06000,California,8,"  Real per capita personal income 4",59126
+08000,Colorado,,Real dollar statistics,
+08000,Colorado,1,"  Real GDP (millions of chained 2017 dollars) 1",422368.4
+08000,Colorado,,Real per capita dollar statistics (constant 2017 dollars),
+08000,Colorado,8,"  Real per capita personal income 4",64668
+09000,Connecticut,,Real dollar statistics,
+09000,Connecticut,1,"  Real GDP (millions of chained 2017 dollars) 1",280823.1
+09000,Connecticut,,Real per capita dollar statistics (constant 2017 dollars),
+09000,Connecticut,8,"  Real per capita personal income 4",69250
+10000,Delaware,,Real dollar statistics,
+10000,Delaware,1,"  Real GDP (millions of chained 2017 dollars) 1",85292.7
+10000,Delaware,,Real per capita dollar statistics (constant 2017 dollars),
+10000,Delaware,8,"  Real per capita personal income 4",56371
+11000,District of Columbia,,Real dollar statistics,
+11000,District of Columbia,1,"  Real GDP (millions of chained 2017 dollars) 1",145227.3
+11000,District of Columbia,,Real per capita dollar statistics (constant 2017 dollars),
+11000,District of Columbia,8,"  Real per capita personal income 4",77241
+12000,Florida,,Real dollar statistics,
+12000,Florida,1,"  Real GDP (millions of chained 2017 dollars) 1",1246931.3
+12000,Florida,,Real per capita dollar statistics (constant 2017 dollars),
+12000,Florida,8,"  Real per capita personal income 4",55163
+13000,Georgia,,Real dollar statistics,
+13000,Georgia,1,"  Real GDP (millions of chained 2017 dollars) 1",673780.8
+13000,Georgia,,Real per capita dollar statistics (constant 2017 dollars),
+13000,Georgia,8,"  Real per capita personal income 4",51732
+15000,Hawaii,,Real dollar statistics,
+15000,Hawaii,1,"  Real GDP (millions of chained 2017 dollars) 1",87871.8
+15000,Hawaii,,Real per capita dollar statistics (constant 2017 dollars),
+15000,Hawaii,8,"  Real per capita personal income 4",49022
+16000,Idaho,,Real dollar statistics,
+16000,Idaho,1,"  Real GDP (millions of chained 2017 dollars) 1",94173.6
+16000,Idaho,,Real per capita dollar statistics (constant 2017 dollars),
+16000,Idaho,8,"  Real per capita personal income 4",53576
+17000,Illinois,,Real dollar statistics,
+17000,Illinois,1,"  Real GDP (millions of chained 2017 dollars) 1",886126.0
+17000,Illinois,,Real per capita dollar statistics (constant 2017 dollars),
+17000,Illinois,8,"  Real per capita personal income 4",57980
+18000,Indiana,,Real dollar statistics,
+18000,Indiana,1,"  Real GDP (millions of chained 2017 dollars) 1",395343.0
+18000,Indiana,,Real per capita dollar statistics (constant 2017 dollars),
+18000,Indiana,8,"  Real per capita personal income 4",55069
+19000,Iowa,,Real dollar statistics,
+19000,Iowa,1,"  Real GDP (millions of chained 2017 dollars) 1",202298.5
+19000,Iowa,,Real per capita dollar statistics (constant 2017 dollars),
+19000,Iowa,8,"  Real per capita personal income 4",59743
+20000,Kansas,,Real dollar statistics,
+20000,Kansas,1,"  Real GDP (millions of chained 2017 dollars) 1",178905.6
+20000,Kansas,,Real per capita dollar statistics (constant 2017 dollars),
+20000,Kansas,8,"  Real per capita personal income 4",59546
+21000,Kentucky,,Real dollar statistics,
+21000,Kentucky,1,"  Real GDP (millions of chained 2017 dollars) 1",220855.2
+21000,Kentucky,,Real per capita dollar statistics (constant 2017 dollars),
+21000,Kentucky,8,"  Real per capita personal income 4",50765
+22000,Louisiana,,Real dollar statistics,
+22000,Louisiana,1,"  Real GDP (millions of chained 2017 dollars) 1",242148.0
+22000,Louisiana,,Real per capita dollar statistics (constant 2017 dollars),
+22000,Louisiana,8,"  Real per capita personal income 4",52781
+23000,Maine,,Real dollar statistics,
+23000,Maine,1,"  Real GDP (millions of chained 2017 dollars) 1",72067.3
+23000,Maine,,Real per capita dollar statistics (constant 2017 dollars),
+23000,Maine,8,"  Real per capita personal income 4",52743
+24000,Maryland,,Real dollar statistics,
+24000,Maryland,1,"  Real GDP (millions of chained 2017 dollars) 1",415011.7
+24000,Maryland,,Real per capita dollar statistics (constant 2017 dollars),
+24000,Maryland,8,"  Real per capita personal income 4",58193
+25000,Massachusetts,,Real dollar statistics,
+25000,Massachusetts,1,"  Real GDP (millions of chained 2017 dollars) 1",610098.9
+25000,Massachusetts,,Real per capita dollar statistics (constant 2017 dollars),
+25000,Massachusetts,8,"  Real per capita personal income 4",67331
+26000,Michigan,,Real dollar statistics,
+26000,Michigan,1,"  Real GDP (millions of chained 2017 dollars) 1",540832.6
+26000,Michigan,,Real per capita dollar statistics (constant 2017 dollars),
+26000,Michigan,8,"  Real per capita personal income 4",53454
+27000,Minnesota,,Real dollar statistics,
+27000,Minnesota,1,"  Real GDP (millions of chained 2017 dollars) 1",382884.6
+27000,Minnesota,,Real per capita dollar statistics (constant 2017 dollars),
+27000,Minnesota,8,"  Real per capita personal income 4",61533
+28000,Mississippi,,Real dollar statistics,
+28000,Mississippi,1,"  Real GDP (millions of chained 2017 dollars) 1",114717.0
+28000,Mississippi,,Real per capita dollar statistics (constant 2017 dollars),
+28000,Mississippi,8,"  Real per capita personal income 4",46392
+29000,Missouri,,Real dollar statistics,
+29000,Missouri,1,"  Real GDP (millions of chained 2017 dollars) 1",337791.1
+29000,Missouri,,Real per capita dollar statistics (constant 2017 dollars),
+29000,Missouri,8,"  Real per capita personal income 4",55467
+30000,Montana,,Real dollar statistics,
+30000,Montana,1,"  Real GDP (millions of chained 2017 dollars) 1",55646.5
+30000,Montana,,Real per capita dollar statistics (constant 2017 dollars),
+30000,Montana,8,"  Real per capita personal income 4",59372
+31000,Nebraska,,Real dollar statistics,
+31000,Nebraska,1,"  Real GDP (millions of chained 2017 dollars) 1",140026.7
+31000,Nebraska,,Real per capita dollar statistics (constant 2017 dollars),
+31000,Nebraska,8,"  Real per capita personal income 4",63701
+32000,Nevada,,Real dollar statistics,
+32000,Nevada,1,"  Real GDP (millions of chained 2017 dollars) 1",193747.4
+32000,Nevada,,Real per capita dollar statistics (constant 2017 dollars),
+32000,Nevada,8,"  Real per capita personal income 4",56149
+33000,New Hampshire,,Real dollar statistics,
+33000,New Hampshire,1,"  Real GDP (millions of chained 2017 dollars) 1",92623.1
+33000,New Hampshire,,Real per capita dollar statistics (constant 2017 dollars),
+33000,New Hampshire,8,"  Real per capita personal income 4",60234
+34000,New Jersey,,Real dollar statistics,
+34000,New Jersey,1,"  Real GDP (millions of chained 2017 dollars) 1",649814.4
+34000,New Jersey,,Real per capita dollar statistics (constant 2017 dollars),
+34000,New Jersey,8,"  Real per capita personal income 4",61405
+35000,New Mexico,,Real dollar statistics,
+35000,New Mexico,1,"  Real GDP (millions of chained 2017 dollars) 1",104221.7
+35000,New Mexico,,Real per capita dollar statistics (constant 2017 dollars),
+35000,New Mexico,8,"  Real per capita personal income 4",50375
+36000,New York,,Real dollar statistics,
+36000,New York,1,"  Real GDP (millions of chained 2017 dollars) 1",1764154.4
+36000,New York,,Real per capita dollar statistics (constant 2017 dollars),
+36000,New York,8,"  Real per capita personal income 4",62106
+37000,North Carolina,,Real dollar statistics,
+37000,North Carolina,1,"  Real GDP (millions of chained 2017 dollars) 1",621836.4
+37000,North Carolina,,Real per capita dollar statistics (constant 2017 dollars),
+37000,North Carolina,8,"  Real per capita personal income 4",54204
+38000,North Dakota,,Real dollar statistics,
+38000,North Dakota,1,"  Real GDP (millions of chained 2017 dollars) 1",58615.3
+38000,North Dakota,,Real per capita dollar statistics (constant 2017 dollars),
+38000,North Dakota,8,"  Real per capita personal income 4",69036
+39000,Ohio,,Real dollar statistics,
+39000,Ohio,1,"  Real GDP (millions of chained 2017 dollars) 1",699206.5
+39000,Ohio,,Real per capita dollar statistics (constant 2017 dollars),
+39000,Ohio,8,"  Real per capita personal income 4",54882
+40000,Oklahoma,,Real dollar statistics,
+40000,Oklahoma,1,"  Real GDP (millions of chained 2017 dollars) 1",194280.8
+40000,Oklahoma,,Real per capita dollar statistics (constant 2017 dollars),
+40000,Oklahoma,8,"  Real per capita personal income 4",56239
+41000,Oregon,,Real dollar statistics,
+41000,Oregon,1,"  Real GDP (millions of chained 2017 dollars) 1",251836.7
+41000,Oregon,,Real per capita dollar statistics (constant 2017 dollars),
+41000,Oregon,8,"  Real per capita personal income 4",51501
+42000,Pennsylvania,,Real dollar statistics,
+42000,Pennsylvania,1,"  Real GDP (millions of chained 2017 dollars) 1",774432.5
+42000,Pennsylvania,,Real per capita dollar statistics (constant 2017 dollars),
+42000,Pennsylvania,8,"  Real per capita personal income 4",58304
+44000,Rhode Island,,Real dollar statistics,
+44000,Rhode Island,1,"  Real GDP (millions of chained 2017 dollars) 1",62098.2
+44000,Rhode Island,,Real per capita dollar statistics (constant 2017 dollars),
+44000,Rhode Island,8,"  Real per capita personal income 4",53223
+45000,South Carolina,,Real dollar statistics,
+45000,South Carolina,1,"  Real GDP (millions of chained 2017 dollars) 1",255597.3
+45000,South Carolina,,Real per capita dollar statistics (constant 2017 dollars),
+45000,South Carolina,8,"  Real per capita personal income 4",50407
+46000,South Dakota,,Real dollar statistics,
+46000,South Dakota,1,"  Real GDP (millions of chained 2017 dollars) 1",56445.1
+46000,South Dakota,,Real per capita dollar statistics (constant 2017 dollars),
+46000,South Dakota,8,"  Real per capita personal income 4",68469
+47000,Tennessee,,Real dollar statistics,
+47000,Tennessee,1,"  Real GDP (millions of chained 2017 dollars) 1",411560.9
+47000,Tennessee,,Real per capita dollar statistics (constant 2017 dollars),
+47000,Tennessee,8,"  Real per capita personal income 4",55524
+48000,Texas,,Real dollar statistics,
+48000,Texas,1,"  Real GDP (millions of chained 2017 dollars) 1",2004830.3
+48000,Texas,,Real per capita dollar statistics (constant 2017 dollars),
+48000,Texas,8,"  Real per capita personal income 4",56452
+49000,Utah,,Real dollar statistics,
+49000,Utah,1,"  Real GDP (millions of chained 2017 dollars) 1",219205.4
+49000,Utah,,Real per capita dollar statistics (constant 2017 dollars),
+49000,Utah,8,"  Real per capita personal income 4",55399
+50000,Vermont,,Real dollar statistics,
+50000,Vermont,1,"  Real GDP (millions of chained 2017 dollars) 1",35551.0
+50000,Vermont,,Real per capita dollar statistics (constant 2017 dollars),
+50000,Vermont,8,"  Real per capita personal income 4",54437
+51000,Virginia,,Real dollar statistics,
+51000,Virginia,1,"  Real GDP (millions of chained 2017 dollars) 1",580316.6
+51000,Virginia,,Real per capita dollar statistics (constant 2017 dollars),
+51000,Virginia,8,"  Real per capita personal income 4",58797
+53000,Washington,,Real dollar statistics,
+53000,Washington,1,"  Real GDP (millions of chained 2017 dollars) 1",641883.2
+53000,Washington,,Real per capita dollar statistics (constant 2017 dollars),
+53000,Washington,8,"  Real per capita personal income 4",59601
+54000,West Virginia,,Real dollar statistics,
+54000,West Virginia,1,"  Real GDP (millions of chained 2017 dollars) 1",77715.5
+54000,West Virginia,,Real per capita dollar statistics (constant 2017 dollars),
+54000,West Virginia,8,"  Real per capita personal income 4",48517
+55000,Wisconsin,,Real dollar statistics,
+55000,Wisconsin,1,"  Real GDP (millions of chained 2017 dollars) 1",342786.9
+55000,Wisconsin,,Real per capita dollar statistics (constant 2017 dollars),
+55000,Wisconsin,8,"  Real per capita personal income 4",57706
+56000,Wyoming,,Real dollar statistics,
+56000,Wyoming,1,"  Real GDP (millions of chained 2017 dollars) 1",37338.1
+56000,Wyoming,,Real per capita dollar statistics (constant 2017 dollars),
+56000,Wyoming,8,"  Real per capita personal income 4",73081
+
+Legend/Footnotes
+"1. Chained (2017) dollar series are calculated as the product of the chain-type quantity index and the 2017 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP."
+4. Real per capita personal income for states is real personal income divided by total midyear population.
+"  Last updated: September 30, 2026."
